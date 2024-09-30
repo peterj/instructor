@@ -1,5 +1,7 @@
 # Instructor examples
 
+Instructor: https://python.useinstructor.com/
+
 1. Create a `.env` file with `OPENAI_API_KEY` variable set.
 2. Run `pip install -r requirements.txt` to install the required packages.
 
