@@ -34,7 +34,7 @@ Returns:
 
 ## Classification (`classify.py`)
 
-Implements an endpoint that classifies the input text into one or more of the provided tags. Tags are provided with insturctions. The output also contains the confidence score for each classification. Run the code with `python classify.py` and then use the sample requests from `classify.sh` file.
+Implements an endpoint that classifies the input text into one or more of the provided tags. Tags are provided with instructions. The output also contains the confidence score for each classification. Run the code with `python classify.py` and then use the sample requests from `classify.sh` file.
 
 Example input:
 
